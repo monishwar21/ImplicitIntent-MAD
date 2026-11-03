@@ -20,9 +20,10 @@ Program to print the text “Implicitintent”.
 Developed by: K MONISHWAR
 Registeration Number : 212225230188
 */
+```
 
 ##Activity_main.xml
-
+```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -73,9 +74,10 @@ Registeration Number : 212225230188
         app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
+```
 
 ##MainActivity.java
-
+```
 package com.example.implicit;
 
 import androidx.appcompat.app.AppCompatActivity;
